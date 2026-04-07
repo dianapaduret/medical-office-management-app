@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect atestat 2024", "Proiect atestat 2024\Proiect atestat 2024.csproj", "{AD74625F-2AFB-4B05-90D3-58543BC2BC7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD74625F-2AFB-4B05-90D3-58543BC2BC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD74625F-2AFB-4B05-90D3-58543BC2BC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD74625F-2AFB-4B05-90D3-58543BC2BC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD74625F-2AFB-4B05-90D3-58543BC2BC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B340E97-C72C-4A91-961A-7E549EF51B48}
+	EndGlobalSection
+EndGlobal
